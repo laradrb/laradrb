@@ -1,8 +1,12 @@
+# Welcome to my GitHub 👋 I'm Lara
+After studying Law and Business Administration, my passion for technology led me to explore digital law and AI. Now, I am involved in a web development bootcamp, deepening my technical skills to connect both worlds and advance my career in the tech sector.
+
+
 # 💫 About Me:
 👀 I’m interested in software development and the IT world.<br>
-🌱 I’m currently learning full-stack web development, focusing on technologies like HTML, CSS, JavaScript, React and Python.
-<br>👯 I’m looking to collaborate on any exciting project where I can apply and expand my skills.
-<br>💬 Let's talk about the latest technology trends
+🌱 I’m currently learning full-stack web development, focusing on technologies like HTML, CSS, JavaScript, React and Python.<br>
+👯 I’m looking to collaborate on any exciting project where I can apply and expand my skills.<br>
+💬 Let's talk about the latest technology trends
 
 
 ## 🌐 Socials:

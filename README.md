@@ -1,5 +1,5 @@
 # Welcome to my GitHub 👋 I'm Lara
-After studying Law and Business Administration, my passion for technology led me to explore digital law and AI. Now, I am involved in a web development bootcamp, deepening my technical skills to connect both worlds and advance my career in the tech sector.
+After studying Law and Business Administration, my passion for technology led me to explore digital law and AI. After a web development bootcamp and a 6 months internship, I continue deepening my technical skills to connect both worlds and advance my career in the tech sector.
 
 
 ## 💫 About Me:
